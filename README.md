@@ -4,7 +4,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=jmperro&count_private=true&show_icons=true&theme=tokyonight" alt="JMPerro's Gitub stats" />
     </td>
     <td rowspan="2" width="50%">
-      <img src="https://wakatime.com/share/@6cd6545f-e1a8-483f-8b57-5bf4c59f98f5/a449a1be-2403-4502-b0cd-de59bcd6bff8.svg" alt="Coding languages" />
+      <img src="https://wakatime.com/share/@6cd6545f-e1a8-483f-8b57-5bf4c59f98f5/7e6158c8-4b40-46c6-9e84-1ac1528d7cfe.png" alt="Coding languages" />
     </td>
   </tr>
   <tr>
