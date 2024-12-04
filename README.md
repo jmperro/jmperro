@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=jmperro&count_private=true&show_icons=true&theme=tokyonight" alt="JMPerro's Gitub stats" />
     </td>
   </tr>
@@ -17,6 +17,8 @@
   </tr>
   -->
 </table>
-- 👋 Hi, I’m @jmperro
-- 👀 I’m interested in become a master in software development
-- 💞️ I’m looking to collaborate on any amazing project
+<ul>
+  <li>👋 Hi, I’m @jmperro</li>
+  <li>👀 I’m interested in become a master in software development</li>
+  <li>💞️ I’m looking to collaborate on any amazing project</li>
+</ul>
