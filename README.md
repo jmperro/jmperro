@@ -18,5 +18,17 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jmperro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!--takatime-start-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>TakaTime Weekly Report</h2>
+
+<p>
+  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
+  <img src="./public/taka-languages30.png" width="400" alt="Languages" />
+  <img src="./public/taka-projects30.png" width="400" alt="Projects" /><br/>
+  <img src="./public/taka-languages.png" width="400" alt="Languages" />
+  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
+  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+</p>
+
+<!--takatime-end-->
